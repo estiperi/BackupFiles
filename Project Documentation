@@ -1,0 +1,8 @@
+This is a script that reviews files in a folder that have been modified after a certain date.
+If a file has been modified after the date, the script copies the file to the destination folder, which is the backup folder. 
+If a file with the same name exists in the backup folder, the file is overwritten. This ensures that in the backup folder only the latest version of the file is present.
+The script compiles a log file, in a TXT, which lists each file processed, the path of the original file, the path to the backed-up file and a message saying if the
+backup was made or there was an error.
+
+NEXT STEPS
+Log file in JSON format.
