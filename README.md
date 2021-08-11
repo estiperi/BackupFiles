@@ -14,8 +14,8 @@ Examples:
 Origin: C:/Folder_level_1
 Destination: H:/Backup_of_C
 
-File C:/Folder_level_1/example1.txt -> H:/Backup_of_C/example1.txt
-File C:/Folder_level_1/Folder_level_2/example2.txt -> H:/Backup_of_C/Folder_level_2/example2.txt
+File C:/Folder_level_1/example1.txt -> H:/Backup_of_C/example1.txt  
+File C:/Folder_level_1/Folder_level_2/example2.txt -> H:/Backup_of_C/Folder_level_2/example2.txt  
 File C:/Folder_level_1/Folder_level_2/Folder_level_3/example9.txt -> H:/Backup_of_C/Folder_level_2/Folder_level_3/example9.txt
 
 
