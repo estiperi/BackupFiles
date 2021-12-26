@@ -21,5 +21,3 @@ Destination: H:/Backup_of_C
 
 ### Output:
 - A .txt file with the list of files processed by the script and the outcome: backed-up (copied from _origin_ to _destination_) or not.
-
-NOTE: This is a test for PULL command.
